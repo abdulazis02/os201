@@ -1,0 +1,26 @@
+Script started on Wed Jun  3 07:51:42 2020
+abdul.azis02@badak:~$ PS1="$ "
+$ echo $GitHubUser
+abdulazis02
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ eval $PSTAMP
+200603-075217-a826-abdul.azis02/> 
+$ PS1="\$(eval \$PSTAMP)"
+200603-075224-43ce-abdul.azis02/> date
+Wed Jun  3 07:52:29 WIB 2020
+200603-075229-b8ee-abdul.azis02/> gpg2 --list-keys
+/home/fasilkom/mahasiswa/a/abdul.azis02/.gnupg/pubring.gpg
+----------------------------------------------------------
+pub   4096R/67DF6DDE 2020-02-13 [expires: 2021-02-12]
+uid       [ unknown] Operating Systems (OS) <operatingsystems@vlsm.org>
+sub   4096R/44170902 2020-02-13 [expires: 2021-02-12]
+
+pub   2048R/EBC9346A 2020-06-03
+uid       [ultimate] Abdul Azis (Universitas Indonesia) <abdulazis483@gmail.com>
+sub   2048R/52531E58 2020-06-03
+
+200603-075241-bd49-abdul.azis02/> exit
+exit
+
+Script done on Wed Jun  3 07:52:51 2020
