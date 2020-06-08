@@ -1,11 +1,10 @@
-
-<img src="starterpackos.jpg" width="100%">
-
-
 ---
 title: Operating Systems URL Starter Pack - abdulazis02
 permalink: /URLs/
 ---
+
+<img src="starterpackos.jpg" width="100%">
+
 
 # Operating Systems URL Starter Pack
 
