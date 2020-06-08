@@ -7,8 +7,9 @@ A computer science master student  at University of Indonesia
 
 ## Contents of Operating System Course
 
+* [Operating Systems URL Starter Pack](https://abdulazis02.github.io/os201/URLs/)
 * [Operating Systems Lecture Notes](https://os.vlsm.org/)
-* [Operating Systems URL Starter Pack](URLs/)
+
 
 ## Contact
 
