@@ -15,7 +15,7 @@ The author hopes that this site can be used to help participants in the upcoming
 
 ## Contents
 
-* [Operating Systems URL Starter Pack](URLs/)
+* [Operating Systems URL Starter Pack](https://abdulazis02.github.io/os201/URLs/)
 
 * [Operating Systems Lecture Notes](https://os.vlsm.org/)
 
