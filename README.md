@@ -1,37 +1,33 @@
-## Welcome to Abdul Azis Github
+## Operating Systems
+
+Welcome to the Abdul Azis site
 
 
-This is my repository for storing my OS course’s.
+
+## Background
+
+This site is part of a collective project initiated by [the lecturer](https://github.com/rms46/) of Operating Systems (CSGE602055) course at the Faculty of Computer Science, University of Indonesia for the Even Semester 2019/2020 period.
+
+The author hopes that this site can be used to help participants in the upcoming Operating Systems course to gain additional knowledge.
 
 
-### Markdown
+## Author
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Abdul Azis ([GitHub: abdulazis02](https://github.com/abdulazis02/)).
 
-# Header 1
-## Header 2
-### Header 3
+A computer science master student who, at the time of the initial deployment of this site, was attending an Operating Systems matriculation course (CSGE602055) at the Faculty of Computer Science, University of Indonesia.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Contents
+* [Operating Systems URL Starter Pack](URLs/)
+* [Operating Systems Lecture Notes](https://os.vlsm.org/)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Disclaimer
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abdulazis02/os201/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This site is based on shared knowledge. The author never claimed that this was an original work. The contents of this repository is usable, reusable, and modifiable.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Abdul Azis - OS201 B](mailto:azispro@icloud.com)
