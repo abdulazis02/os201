@@ -1,8 +1,9 @@
-## Operating Systems
-
-Welcome to the Abdul Azis site
+<img src="headerabdulazis.jpg" width="100%">
 
 
+## Welcome to The Abdul Azis Site
+
+A computer science master student who, at the time of the initial deployment of this site, was attending an Operating Systems matriculation course (CSGE602055) at the Faculty of Computer Science, University of Indonesia.
 
 ## Background
 
@@ -11,19 +12,12 @@ This site is part of a collective project initiated by [the lecturer](https://gi
 The author hopes that this site can be used to help participants in the upcoming Operating Systems course to gain additional knowledge.
 
 
-## Author
-
-
-Abdul Azis ([GitHub: abdulazis02](https://github.com/abdulazis02/)).
-
-A computer science master student who, at the time of the initial deployment of this site, was attending an Operating Systems matriculation course (CSGE602055) at the Faculty of Computer Science, University of Indonesia.
-
-
 
 ## Contents
-* [Operating Systems URL Starter Pack](URLs/)
-* [Operating Systems Lecture Notes](https://os.vlsm.org/)
 
+* [Operating Systems URL Starter Pack](URLs/)
+
+* [Operating Systems Lecture Notes](https://os.vlsm.org/)
 
 
 ## Disclaimer
