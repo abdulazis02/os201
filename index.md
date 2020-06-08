@@ -6,31 +6,16 @@
 Welcome to the Abdul Azis site
 
 
+## About Me
 
-## Background
-
-This site is part of a collective project initiated by [the lecturer](https://github.com/rms46/) of Operating Systems (CSGE602055) course at the Faculty of Computer Science, University of Indonesia for the Even Semester 2019/2020 period.
-
-The author hopes that this site can be used to help participants in the upcoming Operating Systems course to gain additional knowledge.
+Hello I am Abdul Azis, I am a 1st year master of computer science student at University of Indonesia. I am always energetic and eager to learn new skills. I hope  this site can be used to help other participants in the upcoming Operating Systems course to gain additional knowledge.
 
 
-## Author
-
-
-Abdul Azis ([GitHub: abdulazis02](https://github.com/abdulazis02/)).
-
-A computer science master student who, at the time of the initial deployment of this site, was attending an Operating Systems matriculation course (CSGE602055) at the Faculty of Computer Science, University of Indonesia.
-
-
-
-## Contents
+## URLS
 * [Operating Systems URL Starter Pack](URLs/)
 * [Operating Systems Lecture Notes](https://os.vlsm.org/)
 
 
+## Contact Me
 
-## Disclaimer
-
-This site is based on shared knowledge. The author never claimed that this was an original work. The contents of this repository is usable, reusable, and modifiable.
-
-[Abdul Azis - OS201 B](mailto:azispro@icloud.com)
+Email: azispro@icloud.com
