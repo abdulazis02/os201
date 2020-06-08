@@ -1,4 +1,4 @@
-<img src="headerabdulazis.jpg" width="680">
+<img src="headerabdulazis.jpg" width="100%">
 
 
 ## Operating Systems
